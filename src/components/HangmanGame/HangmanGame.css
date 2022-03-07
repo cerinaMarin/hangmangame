@@ -1,0 +1,19 @@
+h2 {
+  letter-spacing: 5px;
+}
+.form-control {
+  width: 200px !important;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.row {
+  display: flex;
+  margin: auto !important;
+  max-width: 50% !important;
+}
+.card {
+  background-color: #d2d2d2 !important;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px !important;
+  border-radius: 37% 63% 51% 49% / 37% 65% 35% 63% !important;
+}
